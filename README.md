@@ -1,8 +1,6 @@
 # < 과제 1 : Requirement Capturing – 온라인 설문조사 플랫폼 >
 ## 역할분담
-requirement-list, use case diagram: 팀 회의 후 결정
 use-case-descriptions: UC1~4,16(김성훈), UC5~8(이수현),UC9~11(최태인),UC12~15(전지윤)
-UI: 최태인
 
 ## 제출 전 점검사항
 * 최종 제출 파일: 보고서(4), 커밋히스토리(1) 압축 파일
